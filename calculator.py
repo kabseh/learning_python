@@ -31,4 +31,4 @@ while True:
     else:
         print(num1, "/", num2, "=", (num1/num2))
 else:
-    print("The Calculation process is Not Nounded")
+    print("The Calculation process is Not Founded")
